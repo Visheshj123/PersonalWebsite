@@ -101,7 +101,9 @@ padding-bottom: 2em; /* allows spacing between header and image*/
 Main Visual
 =========================*/
 
-.main-visual{}
+.main-visual{
+  margin-left: 0px;
+}
 
 .main-visual figcaption{
   background-color: #f6f6f6;
